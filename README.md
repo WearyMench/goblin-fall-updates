@@ -4,17 +4,17 @@ This repository manages version information and updates for Goblin Fall game.
 
 ## Current Version
 
-- **Latest Version:** 1.1
-- **Release Date:** July 19, 2025
+- **Latest Version:** 1.0
+- **Release Date:** July 20, 2025
 - **Minimum Required Version:** 1.0
 
 ## What's New
 
-- Two new boss fights: Chaman and Ghost
-- Enhanced combat system
-- New visual effects
-- Performance improvements
-- Bug fixes
+- Initial game release
+- Basic combat system
+- First game area available
+- Character progression system
+- Initial enemy types
 
 ## Download
 
@@ -24,11 +24,11 @@ Get the latest version at [itch.io/goblin-fall](https://wearymench.itch.io/gobli
 
 ### English
 
-New bosses and combat improvements! Download the latest version for the best experience.
+Welcome to Goblin Fall! Explore the first area and master the combat system.
 
 ### Español
 
-¡Nuevos jefes y mejoras en el combate! Descarga la última versión para la mejor experiencia.
+¡Bienvenido a Goblin Fall! Explora la primera zona y domina el sistema de combate.
 
 ## Version Control
 

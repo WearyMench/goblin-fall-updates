@@ -1,18 +1,18 @@
 {
-    "latest_version": "1.2",
-    "release_date": "2025-07-19",
+    "latest_version": "1.0",
+    "release_date": "2025-07-20",
     "download_url": "https://wearymench.itch.io/goblin-fall",
-    "changelog": "- Nuevos jefes disponibles: Chaman y Ghost\n- Mejoras en el sistema de combate\n- Corrección de errores menores\n- Nuevos efectos visuales",
+    "changelog": "- Lanzamiento inicial del juego\n- Sistema de combate básico\n- Primera zona del juego\n- Sistema de progresión",
     "minimum_version": "1.0",
     "critical_update": false,
     "notes": {
-        "en": "New bosses and combat improvements! Download the latest version for the best experience.",
-        "es": "¡Nuevos jefes y mejoras en el combate! Descarga la última versión para la mejor experiencia."
+        "en": "Welcome to Goblin Fall! Explore the first area and master the combat system.",
+        "es": "¡Bienvenido a Goblin Fall! Explora la primera zona y domina el sistema de combate."
     },
     "features": [
-        "Two new boss fights",
-        "Enhanced visual effects",
-        "Performance improvements",
-        "Bug fixes"
+        "Basic combat system",
+        "First game area",
+        "Character progression",
+        "Initial enemy types"
     ]
 } 

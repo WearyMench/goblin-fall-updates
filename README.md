@@ -18,7 +18,7 @@ This repository manages version information and updates for Goblin Fall game.
 
 ## Download
 
-Get the latest version at [itch.io/goblin-fall](https://tu-usuario.itch.io/goblin-fall)
+Get the latest version at [itch.io/goblin-fall](https://wearymench.itch.io/goblin-fall)
 
 ## Update Notes
 
